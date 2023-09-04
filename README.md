@@ -1,3 +1,12 @@
+# bios
+## ENABLE
+- VT-d & VT-x
+- iGPU Mem. >=64MB
+
+## DISABLE (basically everything in Dortiana guide)
+- Fast boot
+- Secure boot
+
 # wifi
 Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 
