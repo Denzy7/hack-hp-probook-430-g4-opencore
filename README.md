@@ -21,10 +21,11 @@ Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 - Sound (3.5mm and Internal Speakers)
 - Fn keys
 - Touchpad
+- USB mapping (2.0)
+- Webcam
+- Sleep
 
 # not working
 - Bluetooth
-- Webcam
 - SD Reader
-- USB mapping
-- Sleep
+- USB mapping (3.0. feel free to map all ports with usbtoolbox)
