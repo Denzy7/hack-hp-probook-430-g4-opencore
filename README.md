@@ -23,9 +23,10 @@ Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 - Touchpad
 - USB mapping (2.0)
 - Webcam
-- Sleep
+- Sleep (closing lid)
+- Bluetooth
 
 # not working
-- Bluetooth
 - SD Reader
 - USB mapping (3.0. feel free to map all ports with usbtoolbox)
+- Sleep (from macos or power button)
