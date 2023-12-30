@@ -16,6 +16,9 @@
 # wifi
 Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 
+# macos
+- Working on [ventura](ventura.png)
+
 # working
 - Wi-FI w/ HeliPort
 - Sound (3.5mm and Internal Speakers)
@@ -30,3 +33,4 @@ Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 - SD Reader
 - USB mapping (3.0. feel free to map all ports with usbtoolbox)
 - Sleep (from macos or power button)
+- RTC issue
