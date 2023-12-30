@@ -17,7 +17,7 @@
 Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 
 # macos
-- Working on [ventura](ventura.png)
+Working on ventura ![ventura](ventura.png)
 
 # working
 - Wi-FI w/ HeliPort
