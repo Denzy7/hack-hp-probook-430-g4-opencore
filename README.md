@@ -16,6 +16,9 @@
 # wifi
 Needs [HeliPort](https://openintelwireless.github.io/HeliPort/Installation.html)
 
+# serial
+remember to generate (using GenSMBIOS) or use your serial in PlatformInfo
+
 # macos
 Working on ventura ![ventura](ventura.png)
 
